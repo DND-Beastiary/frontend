@@ -1,8 +1,8 @@
 # frontend
 
-DND Beastiary
+# DND Beastiary #
 
-**Project Overview and Key Features**
+## Project Overview and Key Features ##
 
        
 - A compilation of dnd monsters in alphabetical order
@@ -21,8 +21,7 @@ DND Beastiary
     - Keeps track of initiative
       
         
-**Tech Stack for Front End**
+## Tech Stack for Front End ##
 
-React.js, React hooks, Redux
+React.js, React hooks, Redux (for all that sweet, sweet reusability)
 Will be deployed to Netlify first
-
